@@ -24,7 +24,9 @@
     "node": "18.12.1",
     "npm": "Please use yarn instead"
   },
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.0.0",
     "@types/node": "^18.0.0",
