@@ -25,7 +25,8 @@
     "npm": "Please use yarn instead"
   },
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.0.0",
